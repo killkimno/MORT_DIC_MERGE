@@ -1,0 +1,10 @@
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\bin\Debug\Dic Merge.exe.config
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\bin\Debug\Dic Merge.exe
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\bin\Debug\Dic Merge.pdb
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\obj\Debug\Dic Merge.csprojAssemblyReference.cache
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\obj\Debug\Dic_Merge.Form1.resources
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\obj\Debug\Dic_Merge.Properties.Resources.resources
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\obj\Debug\Dic Merge.csproj.GenerateResource.cache
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\obj\Debug\Dic Merge.csproj.CoreCompileInputs.cache
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\obj\Debug\Dic Merge.exe
+H:\Project\visualStudio Projects\MORT_DIC_MERGE\Dic Merge\Dic Merge\obj\Debug\Dic Merge.pdb
